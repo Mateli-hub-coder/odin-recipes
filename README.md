@@ -1,5 +1,5 @@
 # odin-recipes
-This is a recipes website, 
-where I have shown how to use basic HTML elements
+This is a simple website, 
+showing the use of basic HTML and Css elements.
 check it out:
 https://mateli-hub-coder.github.io/odin-recipes/
