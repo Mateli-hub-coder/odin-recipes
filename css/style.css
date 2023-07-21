@@ -1,7 +1,9 @@
 * {
     font-family: "Times New Roman", Times, serif;
     line-height: 1.5rem;
+    padding: 0;
     margin: auto;
+    box-sizing: border-box;
 }
 .homepage_container {
     display: block;
